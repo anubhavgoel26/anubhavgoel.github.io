@@ -5,7 +5,7 @@ permalink: /about
 ---
 <img style="float: right; width: 35%; padding: 5px;" src=" {{site.url}}/assets/img/profile.jpg ">
 
-Hey! Hey there! I am Anubhav Goel, a final year student in the Department of Electrical Engineering at IIT Bombay. I am interested in the fields of **Machine Learning** and **Image Processing**. I plan to use this website as a medium for sharing my projects.
+Hey! I am Anubhav Goel, a final year student in the Department of Electrical Engineering at IIT Bombay pursuing a Dual Degree. I am interested in the fields of **Machine Learning** and **Image Processing**. I plan to use this website to share my projects and some updates about my life.
 
 I worked at Ernst & Young during my sophomore year analyzing fiscal development and developing economic reform startegies for various state governments in India.
 
