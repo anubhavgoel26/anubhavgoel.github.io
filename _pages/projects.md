@@ -27,11 +27,5 @@ Course projects:
 * CS663: Digital Image Processing - Toonification  
   [[report]](https://github.com/methi1999/CS663-DIP-Project)
   
-* EE679: Speech Processing - Speech Compression using Deep Learning  
-  [[code]]({{ site.url }}/assets/pdf/ee679_paper_review.pdf)
-  
-* SC631: Games and Information Theory - A study of Auction Theory  
-  [[presentation]]({{ site.url }}/assets/pdf/sc631_auction_theory.pdf)
-  
 * EE224: Digital Systems - Implementation of RISC in VHDL  
   [[report]]({{ site.url }}/assets/pdf/risc_report.pdf)
