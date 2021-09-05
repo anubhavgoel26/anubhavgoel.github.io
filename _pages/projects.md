@@ -41,12 +41,3 @@ Course projects:
   
 * IE613: Online Learning - A study of Duelling Bandits  
   [[report]]({{ site.url }}/assets/pdf/bandit_report.pdf) [[code]](https://github.com/methi1999/dueling-bandits)
-
-
-Miscellaneous:
-
-* [Keyword Spotting]({{ site.url }}/projects/kws)
-* [Hangman]({{ site.url }}/projects/hangman)
-* [FindIt]({{ site.url }}/projects/findit)
-* [IPL analysis]({{ site.url }}/projects/ipl)
-* [Handwriting Recognition Pen]({{ site.url }}/projects/itsp)
