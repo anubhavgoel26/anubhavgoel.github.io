@@ -31,4 +31,4 @@ Projects:
   [[report]]({{ site.url }}/assets/pdf/micro.pdf)
 
 * CS101: Computer Programming and Utilization - 15 Puzzle  
-  [[code]]({{ site.url }}/assets/pdf/Final_Code.cpp)
+  [[code]](https://github.com/anubhavgoel26/15Puzzle)
