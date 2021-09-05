@@ -7,8 +7,8 @@ permalink: /projects
 Course projects:
 
 * Supervised Research Exposition: Deep Learning Strategies for Reconstructing Undersampled RS fMRI 
-  [[presentation]]({{ site.url }}/assets/pdf/sreppt.pdf) [[report]]({{ site.url }}/assets/pdf/srereport.pdf) [[arXiv]](https://arxiv.org/abs/2104.05488)
-
+  [[presentation]]({{ site.url }}/assets/pdf/sreppt.pdf) [[report]]({{ site.url }}/assets/pdf/srereport.pdf) 
+  
 * DTU504: Computer Vision - 3D Scene Reconstruction Using Multiple 2D Images  
   [[presentation]]({{ site.url }}/assets/pdf/cv_dtu_ppt.pdf)
   
