@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects
 ---
 
-Course projects:
+Projects:
 
 * Supervised Research Exposition: Deep Learning Strategies for Reconstructing Undersampled RS fMRI 
   [[presentation]]({{ site.url }}/assets/pdf/sreppt.pdf) [[report]]({{ site.url }}/assets/pdf/srereport.pdf) 
@@ -25,10 +25,10 @@ Course projects:
   [[code]](https://github.com/anubhavgoel26/LearningBridges)
   
 * CS663: Digital Image Processing - Toonification  
-  [[report]](https://github.com/methi1999/CS663-DIP-Project)
+  [[presentation]]({{ site.url }}/assets/pdf/CS663.pdf)
   
 * EE224: Digital Systems - Implementation of RISC in VHDL  
-  [[report]]({{ site.url }}/assets/pdf/risc_report.pdf)
+  [[report]]({{ site.url }}/assets/pdf/micro.pdf)
 
 * CS101: Computer Programming and Utilization - 15 Puzzle  
-  [[code]]({{ site.url }}/assets/pdf/risc_report.pdf)
+  [[code]]({{ site.url }}/assets/pdf/Final_Code.cpp)
