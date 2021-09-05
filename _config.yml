@@ -15,7 +15,7 @@ email: anubhavgoel026@gmail.com
 email2: anubhav.goel@iitb.ac.in
 description: An attempt to summarise my learnings in the field of Machine Learning and other interesting topics
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://anubhavgoel.github.io" # the base hostname & protocol for your site
+url: "http://anubhavgoel26.github.io" # the base hostname & protocol for your site
 github_username:  anubhavgoel26
 linkedin_username: anubhav-goel-4981021a6
 include: ['_pages']
