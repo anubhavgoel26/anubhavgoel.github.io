@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: redirect
 permalink: /
+redirect: https://www.yournewwebsite.com](https://www.cs.utexas.edu/~anubhavg/
 ---
 {% include JB/setup %}
 
